@@ -46,7 +46,7 @@ google_analytics: false
 favicon: /assets/img/favicon.ico
 
 #你的头像url
-avatar: /assets/blogImg/litten.png
+avatar: /img/fenghui2013.png
 
 #是否开启分享
 share_jia: true
