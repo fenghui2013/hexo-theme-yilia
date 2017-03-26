@@ -29,7 +29,7 @@ root:
 excerpt_link: 'more'
 show_all_link: '展开全文'
 fancybox: true
-mathjax: true
+mathjax: false
 
 # 打赏
 reward_type: 1
